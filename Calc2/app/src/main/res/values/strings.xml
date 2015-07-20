@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="action_settings">Configurações</string>
+
+    <string name="new_message_notification_title_template">Novo resultado: %1$s</string>
+    <string name="new_message_notification_placeholder_text_template">O resultado da sua operação é %1$s</string>
+
+    <string name="new_message2_notification_title_template">Novo resultado: %1$s</string>
+    <string name="new_message2_notification_placeholder_text_template">O resultado da sua operação é %1$s</string>
+
+    <string name="action_share">Compartilhar</string>
+    <string name="action_reply">Responder</string>
+    <string name="preencha_os_valores">Preenche os valores</string>
+
+
+    <string name="fail_showing_notification">Falha ao exibir notificação.</string>
+    <string name="fail_executing_addition">Falha ao executar ADIÇÃO.</string>
+    <string name="fail_executing_subtraction">Falha ao executar SUBTRAÇÃO.</string>
+    <string name="fail_executing_multiplication">Falha ao executar MULTIPLICAÇÃO.</string>
+    <string name="fail_executing_division">Falha ao executar DIVISÃO.</string>
+</resources>
